@@ -107,7 +107,7 @@ var arrLang={
       '2D' : 'Android için 2D oyun',
       'My' : 'Eğitim kodlarım',
       'Click' : 'Git Heabımı açmak için tıklayınız. (Açıklamalarıyla beraber) S/CPP/CS/Unity/Unreal Engine/Phyton/CSS/JS/HTML/Blazor/React',
-      'Data' : 'Projelerin Kaynak Kodları,',
+      'Data' : 'Projelerin Kaynak Kodları',
       'ClickGit' : 'Git Heabımı açmak için tıklayınız',
       'DesignFor' : 'Web sitesi Tasarımı',
       'Free' : 'C/C++ hakkında ücretsiz video seti',
