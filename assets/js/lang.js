@@ -2,6 +2,8 @@ var arrLang={
     'en':{
       'about' : 'My name is Omer Faruk GUNES. I am a fourth year computer engineer student at Cukurova University. I love working at a computer. I have always been interested in technology and researching since my childhood. Especially, I enjoy working on technologies that appeal to the end user. Learning and discovering new things have become a hobby for me. In addition, I love helping my teammates in teamwork and personally improving myself from their experiences. In my spare time I ride a bike, play basketball or watch movies.',
       'MaarifYear' : 'Jun 2021 - July 2021',
+      'ImaginiteYear' : 'October 2021 - Jun 2022',
+      'MarulaYear' : 'Jun 2022 - Present',
       'MaarifInfo' : 'Full Stack Dev. Intern',
       'MaarifName' : 'Türkiye Maarif Foundation',
       'Maarif' :'Library Management System / Students information System',
@@ -26,7 +28,6 @@ var arrLang={
       'Publisher' : 'Publisher',
       'Cukurova' : 'Cukurova University',
       'Computer' : 'Computer Engineering Student',
-      '2017P' : '2017-Present',
       'Designer' : 'Designer',
       'HIGH' : 'HIGH SCHOOL GRADUATE',
       'Mardin' : 'Mardin Anatolia High School',
@@ -72,6 +73,8 @@ var arrLang={
     },
     'tr':{
       'about' : 'Adım Ömer Faruk GÜNEŞ. 4.Sınıf Çukurova Universitesi Bilgisayar Mühendisi öğrencisiyim. Bilgisayar başında çalışmaktan çok büyük keyif alıyorum. Teknoloji çocukluğumdan beri ilgimi çekmiştir. Özellikle son kullanıcıya hitap eden teknolojiler üzerinde çalışmaktan büyük zevk almaktayım. Yeni bilgiler edinmek durmadan araştırmalar yapmak benim için bir hobi haline gelmiş durumda. Tüm bunlara ek olarak, bir takım çalışmasında takım arkadaşlarıma yardım etmeyi ve onların tecrübelerinden kişisel olarak gelişim sağlamayı çok severim. Boş zamanlarımı bisiklet sürerek, basketbol oynarak veya film ve dizi izleyerek geçiririm.',
+      'ImaginiteYear' : 'Ekim 2021 - Haziran 2022',
+      'MarulaYear' : 'Haziran 2022 - Devam',
       'MaarifYear' : 'Haziran 2021 - Temmuz 2021',
       'MaarifInfo' : 'Full Stack Dev. Stajyer',
       'MaarifName' : 'Türkiye Maarif Vakfı',
@@ -95,7 +98,6 @@ var arrLang={
       'Publisher' : 'Yayıncı',
       'Cukurova' : 'Çukurova Universitesi',
       'Computer' : 'Bilgisayar Mühendisi Öğrencisi',
-      '2017P' : '2017-Günümüz',
       'Designer' : 'Tasarımcı',
       'HIGH' : 'Lise Mezuniyeti',
       'Mardin' : 'Mardin Anadolu Lisesi',
